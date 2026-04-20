@@ -6,14 +6,20 @@
 
 ---
 
-## SMT Divergence (Smart Money Technique)
+## Trade Status — Live Update
 
-| Asset | London High | Swept? |
-|---|---|---|
-| BTCUSD | $75,685 | ✅ Swept |
-| ETHUSD | $2,332.16 | ❌ Failed to sweep |
+| Event | Price | Time | Notes |
+|---|---|---|---|
+| Entry | $2,317.88 | NYAM | Short triggered at NYAM High |
+| TP1 Hit | $2,281.32 | — | D Open — 2.34R ✅ |
+| Retracement | $2,317.88 | — | Price pulled back to entry level |
 
-**Interpretation:** BTC swept its London High (BSL taken) while ETH failed to make an equal high. This is a classic ICT SMT bearish divergence — Smart Money distributed via BTC while ETH's weakness exposed the reversal. Both assets now drawing to sell-side liquidity below.
+**Current Status:** TP1 hit, price retraced to entry. TP2 & TP3 still open.
+
+### Management Options
+- **Stop to BE** — move SL to $2,317.88 (entry) — risk-free from here
+- **Re-entry** — if price rejects entry zone again, reload short toward TP2/TP3
+- **Invalidation** — close above $2,333.50 still stands
 
 ---
 
@@ -23,16 +29,27 @@
 |---|---|
 | **Entry** | $2,317.88 (NYAM High — retracement) |
 | **Stop Loss** | $2,333.50 (above LO High) |
-| **TP1** | $2,281.32 (D Open) |
+| **TP1** | $2,281.32 (D Open) ✅ Hit |
 | **TP2** | $2,268.51 (LO Low) |
 | **TP3** | $2,259.94 (Asia Low — unswept SSL) |
 
 ### Risk/Reward
-| Target | Risk | Reward | RRR |
-|---|---|---|---|
-| TP1 — D Open | 15.62 | 36.56 | 2.34R |
-| TP2 — LO Low | 15.62 | 49.37 | 3.16R |
-| TP3 — Asia Low | 15.62 | 57.94 | 3.71R |
+| Target | Risk | Reward | RRR | Status |
+|---|---|---|---|---|
+| TP1 — D Open | 15.62 | 36.56 | 2.34R | ✅ Hit |
+| TP2 — LO Low | 15.62 | 49.37 | 3.16R | Open |
+| TP3 — Asia Low | 15.62 | 57.94 | 3.71R | Open |
+
+---
+
+## SMT Divergence (Smart Money Technique)
+
+| Asset | London High | Swept? |
+|---|---|---|
+| BTCUSD | $75,685 | ✅ Swept |
+| ETHUSD | $2,332.16 | ❌ Failed to sweep |
+
+**Interpretation:** BTC swept its London High (BSL taken) while ETH failed to make an equal high. Classic ICT SMT bearish divergence — Smart Money distributed via BTC while ETH's weakness exposed the reversal. Both assets drawing to sell-side liquidity below.
 
 ---
 
@@ -43,7 +60,7 @@
 |---|---|---|---|---|
 | Asian (AS) | $2,294.12 | $2,259.94 | $34.18 | Asia Low = unswept SSL |
 | London Open (LO) | $2,332.16 | $2,268.51 | $63.65 | ETH FAILED to sweep LO High |
-| NY AM (NYAM) | $2,317.88 | $2,302.03 | $15.85 | Active — entry zone |
+| NY AM (NYAM) | $2,317.88 | $2,302.03 | $15.85 | Entry zone |
 
 ### Daily Pivots
 | Level | Price |
@@ -70,13 +87,12 @@
 | Entry | $2,317.88 | NYAM High short entry |
 | Bullish FVG | $2,295.61–$2,298.31 | En-route support |
 | Bullish OB | $2,307.21–$2,310.78 | En-route support |
-| TP1 | $2,281.32 | D Open |
+| TP1 | $2,281.32 | D Open ✅ Hit |
 | TP2 | $2,268.51 | LO Low |
 | TP3 | $2,259.94 | Asia Low — primary SSL target |
 
 ### SMT Rule Applied
-- Wait for retracement to $2,317–$2,318 (NYAM High) for short entry
-- Alternative entry: $2,302 retest (NYAM Low turned resistance) if no retracement
+- Waited for retracement to $2,317–$2,318 (NYAM High) for short entry ✅
 - Invalidation: ETH closes above $2,333.50 (reclaims above LO High)
 
 ---
