@@ -3,23 +3,28 @@
 **Symbol:** Capital.com:ETHUSD  
 **Timeframe:** 5-min  
 **Price at Analysis:** $2,311.76  
+**Status:** CLOSED ✅
 
 ---
 
-## Trade Status — Live Update
+## Trade Result
 
-| Event | Price | Time | Notes |
+| | |
+|---|---|
+| **Outcome** | WIN (Partial) |
+| **Entry** | $2,317.88 |
+| **SL** | $2,333.50 |
+| **Risk** | 15.62 pts |
+| **TP1 (50%)** | $2,281.32 → **2.34R** ✅ |
+| **Remainder (50%)** | $2,317.88 → **0R** (closed at entry BE) |
+| **Blended Result** | **+1.17R** |
+
+### Execution Breakdown
+| Tranche | Size | Exit Price | R |
 |---|---|---|---|
-| Entry | $2,317.88 | NYAM | Short triggered at NYAM High |
-| TP1 Hit | $2,281.32 | — | D Open — 2.34R ✅ |
-| Retracement | $2,317.88 | — | Price pulled back to entry level |
-
-**Current Status:** TP1 hit, price retraced to entry. TP2 & TP3 still open.
-
-### Management Options
-- **Stop to BE** — move SL to $2,317.88 (entry) — risk-free from here
-- **Re-entry** — if price rejects entry zone again, reload short toward TP2/TP3
-- **Invalidation** — close above $2,333.50 still stands
+| Partial close | 50% | $2,281.32 (TP1) | +2.34R |
+| Remainder | 50% | $2,317.88 (Entry BE) | 0R |
+| **Net** | **100%** | — | **+1.17R** |
 
 ---
 
@@ -30,15 +35,15 @@
 | **Entry** | $2,317.88 (NYAM High — retracement) |
 | **Stop Loss** | $2,333.50 (above LO High) |
 | **TP1** | $2,281.32 (D Open) ✅ Hit |
-| **TP2** | $2,268.51 (LO Low) |
-| **TP3** | $2,259.94 (Asia Low — unswept SSL) |
+| **TP2** | $2,268.51 (LO Low) — not reached |
+| **TP3** | $2,259.94 (Asia Low — unswept SSL) — not reached |
 
 ### Risk/Reward
 | Target | Risk | Reward | RRR | Status |
 |---|---|---|---|---|
-| TP1 — D Open | 15.62 | 36.56 | 2.34R | ✅ Hit |
-| TP2 — LO Low | 15.62 | 49.37 | 3.16R | Open |
-| TP3 — Asia Low | 15.62 | 57.94 | 3.71R | Open |
+| TP1 — D Open | 15.62 | 36.56 | 2.34R | ✅ Hit (50%) |
+| TP2 — LO Low | 15.62 | 49.37 | 3.16R | — |
+| TP3 — Asia Low | 15.62 | 57.94 | 3.71R | — |
 
 ---
 
@@ -49,7 +54,7 @@
 | BTCUSD | $75,685 | ✅ Swept |
 | ETHUSD | $2,332.16 | ❌ Failed to sweep |
 
-**Interpretation:** BTC swept its London High (BSL taken) while ETH failed to make an equal high. Classic ICT SMT bearish divergence — Smart Money distributed via BTC while ETH's weakness exposed the reversal. Both assets drawing to sell-side liquidity below.
+**Interpretation:** BTC swept its London High (BSL taken) while ETH failed to make an equal high. Classic ICT SMT bearish divergence — Smart Money distributed via BTC while ETH's weakness exposed the reversal.
 
 ---
 
@@ -71,15 +76,7 @@
 
 ---
 
-## Full ICT Analysis Summary
-
-### Market Structure
-- Asia range: $2,259.94 — $2,294.12
-- London opened, dipped to $2,268.51, then swept Asia High BSL to $2,332.16
-- NYAM consolidating $2,302–$2,317 — unable to continue higher
-- SMT divergence with BTC confirms distribution
-
-### Key Levels
+## Key Levels
 | Level | Price | Role |
 |---|---|---|
 | LO High (failed sweep) | $2,332.16 | BSL — ETH could not reach |
@@ -91,9 +88,14 @@
 | TP2 | $2,268.51 | LO Low |
 | TP3 | $2,259.94 | Asia Low — primary SSL target |
 
-### SMT Rule Applied
-- Waited for retracement to $2,317–$2,318 (NYAM High) for short entry ✅
-- Invalidation: ETH closes above $2,333.50 (reclaims above LO High)
+---
+
+## Post-Trade Notes
+
+- SMT signal was valid — price delivered cleanly to TP1
+- Retracement to entry after TP1 is common — remainder closed at BE to protect gains
+- TP2 ($2,268.51) and TP3 ($2,259.94) were not reached this session
+- Blended result of 1.17R is a solid outcome given the retracement risk
 
 ---
 
