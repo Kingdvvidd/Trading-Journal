@@ -7,6 +7,21 @@
 
 ---
 
+## Trade Result ✅
+
+| | |
+|---|---|
+| **Outcome** | WIN — Both TP1 & TP2 Hit |
+| **Entry** | 26,645 |
+| **Exit Price** | 26,478 (TP2) |
+| **Exit Time** | 11:03 UTC-4 (2026-04-20) |
+| **Points Captured** | 167 pts |
+| **R Captured** | **3.7R** |
+| **TP1 Hit** | 26,580 ✅ |
+| **TP2 Hit** | 26,478 ✅ |
+
+---
+
 ## Trade Setup
 
 | | |
@@ -55,7 +70,7 @@
 | **Entry** | **26,645** | Within Bearish OB |
 | Equilibrium 50% | 26,583 | Fair value / TP1 area |
 | Bullish OB | 26,573.7 — 26,592.7 | Demand — TP1 target |
-| Session Open SSL | 26,478 — 26,488 | Deep sell-side — TP2 target |
+| Session Open SSL | 26,478 — 26,488 | Deep sell-side — TP2 target ✅ |
 
 ---
 
@@ -84,19 +99,28 @@
 | OB | Range | Type |
 |---|---|---|
 | Bearish OB (ATH) | 26,629.8 — 26,661.6 | Short entry zone |
-| Bullish OB (pre-ATH) | 26,573.7 — 26,592.7 | TP1 demand zone |
-| Bullish OB (session) | 26,477.3 — 26,495.2 | TP2 deep demand |
+| Bullish OB (pre-ATH) | 26,573.7 — 26,592.7 | TP1 demand zone ✅ |
+| Bullish OB (session) | 26,477.3 — 26,495.2 | TP2 deep demand ✅ |
 
 ---
 
 ## Scenarios
 
-**Scenario A — Bearish (favoured):**
-- Price retraces into Bearish OB 26,629–26,661
-- Rejects → draw to Bullish OB 26,573–26,593 (TP1)
-- Extension to session open SSL 26,478 (TP2)
+**Scenario A — Bearish (favoured) ✅ PLAYED OUT:**
+- Price retraced into Bearish OB 26,629–26,661
+- Rejected → drew to Bullish OB 26,573–26,593 (TP1 ✅)
+- Extended to session open SSL 26,478 (TP2 ✅)
 
 **Scenario B — Bullish continuation:**
 - Price closes above ATH 26,687.7 with strong volume
 - New ATH discovery — no resistance above
 - Targets: 26,750 / 26,800 (psychological)
+
+---
+
+## Post-Trade Notes
+
+- Full Scenario A played out perfectly — both TPs hit with clean price delivery
+- BSL sweep at ATH followed by textbook ICT distribution model
+- Session Open SSL at 26,478 acted as precise TP2 magnet
+- 3.7R captured with no SL risk after TP1 cleared
